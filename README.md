@@ -1,2 +1,2 @@
-# WDD-AI
-AI project
+# MDD-AI
+That's all for today!
